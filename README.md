@@ -1,12 +1,12 @@
 # Wordle
 
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *WordleLite*
 
-Submitted by: **Your Name Here**
+Submitted by: **Austin Ignarra**
 
-**Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**Wordlite** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -37,7 +37,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/promysto/Wordle/blob/master/unit1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ezgif.com  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -49,7 +49,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
