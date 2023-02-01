@@ -1,6 +1,6 @@
 # Wordle
 
-# Android Project 1 - *WordleLite*
+# Android Project 1 - *WordLite*
 
 Submitted by: **Austin Ignarra**
 
